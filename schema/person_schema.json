@@ -1,0 +1,26 @@
+{
+    "rows": [
+        {
+        "firstName": "",
+        "surname": "",
+        "displayName": "",
+        "department": "",
+        "employeeID": "1000",
+        "jobTitle": "",
+        "startDate": "1970-01-01",
+        "leaveDate": "1970-12-24",
+        "manager": null
+        },
+        {
+        "firstName": "",
+        "surname": "",
+        "displayName": "",
+        "department": "",
+        "employeeID": "1001",
+        "jobTitle": "",
+        "startDate": "1970-02-01",
+        "leaveDate": "1970-12-24",
+        "manager": "1000"
+        }
+    ]
+}
