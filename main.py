@@ -40,7 +40,7 @@ if __name__ == "__main__":
     #print (formatted_system_message)
 
     user_question = "Generate 10 users please."
-    response = get_completion_from_messages(formatted_system_message, user_question,1,8000)
+    response = get_completion_from_messages(formatted_system_message, user_question,0.8,8000)
     #Load to a dictionary
     json_dict = json.loads(response)
     #Nicely format the JSON output
