@@ -120,3 +120,10 @@ For example:
   ]
 }
 ```
+
+.env
+```
+AZURE_OPENAI_API_KEY=
+AZURE_OPENAI_ENDPOINT=
+OPENAI_DEPLOYMENT_NAME=
+```
